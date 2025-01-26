@@ -122,7 +122,7 @@ console.log(students) ;
     operator precedence
     1. parenthesis ()
     2. exponents
-    3. multiplication & division & modulo
+    3. multiplication & division & modulus
     4. addition & subtraction
 */
 
@@ -145,7 +145,7 @@ username = window.prompt("what's your username?");
 
 // let username = window.prompt("what's your username?");
 
-console. log(username);
+console.log(username);
 
 
 
